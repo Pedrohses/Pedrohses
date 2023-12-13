@@ -18,11 +18,11 @@
 
 <h2 align="center">Sobre mim:</h2>
 <li>
-· 🏙️ Guarulhos-SP <br>
-· 🧠 Estudante assíduo <br>
-· 📖 Apaixonado por leitura <br>
-· 🎮 Adoro games <br>
-· 😃 Bem humorado <br>
+🏙️ Guarulhos-SP <br>
+🧠 Estudante assíduo <br>
+📖 Apaixonado por leitura <br>
+🎮 Adoro games <br>
+😃 Bem humorado <br>
 </li>
 
 <p align="left">
