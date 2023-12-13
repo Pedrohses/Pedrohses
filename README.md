@@ -43,9 +43,9 @@
 
 <p align="left">
   <h2>Projetos:</h2>
-  · Página Pessoal <a href="https://pedrohses.github.io/">Página Pessoal</a> <br>
-
-
+  · Página Pessoal <a href="https://pedrohses.github.io/">Página Pessoal</a>
+  <br>
+  <br>
   Caso queira saber como foram feitos, veja meus repositórios 😁
   · Página Pessoal <a href="https://github.com/Pedrohses/Pedrohses.github.io">Página Pessoal</a>
 </p>
