@@ -11,10 +11,10 @@
 <p>Sempre fazendo cursos por fora, estudando códigos de outras pessoas, fazendo meus próprios códigos, falando com pessoas sobre e tentando estudar além da faculdade o máximo possível (Quando a faculdade me permite kkkk)</p>
 
 <h2 align="center">Sobre mim:</h2>
-* 🏙️ Guarulhos-SP
-* 🧠 Estudante assíduo
-* 📖 Apaixonado por leitura
-* 🎮 Adoro por games
-* 😃 Bem humorado
+* 🏙️ Guarulhos-SP <br>
+* 🧠 Estudante assíduo <br>
+* 📖 Apaixonado por leitura <br>
+* 🎮 Adoro por games <br>
+* 😃 Bem humorado <br>
 
 <h3>Caso queria saber mais sobre mim ou até mesmo conversar, me chame!</h3>
