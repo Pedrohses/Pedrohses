@@ -17,15 +17,17 @@
 <a href="https://app.daily.dev/pedrohses"><img align="right" src="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz" width="300" alt="Pedro Silva's Card"/></a>
 
 <h2 align="center">Sobre mim:</h2>
+<li>
 · 🏙️ Guarulhos-SP <br>
 · 🧠 Estudante assíduo <br>
 · 📖 Apaixonado por leitura <br>
 · 🎮 Adoro games <br>
 · 😃 Bem humorado <br>
+</li>
 
 <p align="left">
   <h4>Caso queria saber mais sobre mim ou até mesmo conversar, me chame!</h4>
-  <div align="center">
+  <div align="left">
   <a href="https://www.facebook.com/profile.php?id=100004276724588" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a>
