@@ -46,7 +46,16 @@
   · Página Pessoal <a href="https://pedrohses.github.io/">Página Pessoal</a>
   <br>
   <br>
-  Caso queira saber como foram feitos, veja meus repositórios 😁
+  😁 Caso queira saber como foram feitos, veja meus repositórios: 
+  <br>
   <br>
   · Página Pessoal <a href="https://github.com/Pedrohses/Pedrohses.github.io">Página Pessoal</a>
+</p>
+
+<p align="center">
+  <h2>Tecnologias</h2>
+  <h3>Linguagens</h3>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  
 </p>
