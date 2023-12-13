@@ -17,13 +17,13 @@
 <a href="https://app.daily.dev/pedrohses"><img align="right" src="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz" width="300" alt="Pedro Silva's Card"/></a>
 
 <h2 align="center">Sobre mim:</h2>
-<li>
-🏙️ Guarulhos-SP 
-🧠 Estudante assíduo
-📖 Apaixonado por leitura
-🎮 Adoro games
-😃 Bem humorado
-</li>
+<ol>
+<li>🏙️ Guarulhos-SP</li>
+<li>🧠 Estudante assíduo</li>
+<li>📖 Apaixonado por leitura</li>
+<li>🎮 Adoro games</li>
+<li>😃 Bem humorado</li>
+</ol>
 
 <p align="left">
   <h4>Caso queria saber mais sobre mim ou até mesmo conversar, me chame!</h4>
