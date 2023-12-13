@@ -25,7 +25,7 @@
 
 <p align="left">
   <h4>Caso queria saber mais sobre mim ou até mesmo conversar, me chame!</h4>
-
+  <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100004276724588" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a>
@@ -36,7 +36,8 @@
 
   <a href="https://www.linkedin.com/in/pedro-silva-43985125b/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a> 
+  </a>
+  </div>
 </p>
 
 <p align="left">
