@@ -17,13 +17,13 @@
 <a href="https://app.daily.dev/pedrohses"><img align="right" src="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz" width="300" alt="Pedro Silva's Card"/></a>
 
 <h2 align="center">Sobre mim:</h2>
-<ol>
+<ul>
 <li>🏙️ Guarulhos-SP</li>
 <li>🧠 Estudante assíduo</li>
 <li>📖 Apaixonado por leitura</li>
 <li>🎮 Adoro games</li>
 <li>😃 Bem humorado</li>
-</ol>
+</ul>
 
 <p align="left">
   <h4>Caso queria saber mais sobre mim ou até mesmo conversar, me chame!</h4>
@@ -44,13 +44,17 @@
 
 <p align="left">
   <h2>Projetos:</h2>
-  · Página Pessoal <a href="https://pedrohses.github.io/">Página Pessoal</a>
+  <ul>
+  <li>Página Pessoal <a href="https://pedrohses.github.io/">Página Pessoal</a></li>
+  </ul>
+  
+  <br>
+  <h3>😁 Caso queira saber como foram feitos, veja meus repositórios:</h3> 
   <br>
   <br>
-  😁 Caso queira saber como foram feitos, veja meus repositórios: 
-  <br>
-  <br>
-  · Página Pessoal <a href="https://github.com/Pedrohses/Pedrohses.github.io">Página Pessoal</a>
+  <ul>
+  <li>Página Pessoal <a href="https://github.com/Pedrohses/Pedrohses.github.io">Página Pessoal</a></li>
+  </ul>
 </p>
 
 <p align="center">
