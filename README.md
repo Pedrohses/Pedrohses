@@ -10,6 +10,12 @@
 <p>Atualmente focado em estudar Python e Javascript, porém disposto a estudar mais sobre outras linguagens</p>
 <p>Sempre fazendo cursos por fora, estudando códigos de outras pessoas, fazendo meus próprios códigos, falando com pessoas sobre e tentando estudar além da faculdade o máximo possível (Quando a faculdade me permite kkkk)</p>
 
+</div>
+
+<div align="left">
+
+<a href="https://app.daily.dev/pedrohses"><img align="right" src="https://github.com/pedrohses/pedrohses/blob/main/devcard.svg" width="400" alt="Pedro Silva's Dev Card"/></a>
+
 <h2 align="center">Sobre mim:</h2>
 * 🏙️ Guarulhos-SP <br>
 * 🧠 Estudante assíduo <br>
