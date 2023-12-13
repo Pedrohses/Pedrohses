@@ -19,11 +19,11 @@
 
 
 <h2 align="center">Sobre mim:</h2>
-* 🏙️ Guarulhos-SP <br>
-* 🧠 Estudante assíduo <br>
-* 📖 Apaixonado por leitura <br>
-* 🎮 Adoro por games <br>
-* 😃 Bem humorado <br>
+· 🏙️ Guarulhos-SP <br>
+· 🧠 Estudante assíduo <br>
+· 📖 Apaixonado por leitura <br>
+· 🎮 Adoro por games <br>
+· 😃 Bem humorado <br>
 
 <p align="left">
   <h4>Caso queria saber mais sobre mim ou até mesmo conversar, me chame!</h4>
@@ -39,6 +39,13 @@
   <a href="https://www.linkedin.com/in/pedro-silva-43985125b/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
-    
-  
+</p>
+
+<p align="left">
+  <h2>Projetos:</h2>
+  · Página Pessoal <a href="pedrohses.github.io">Página Pessoal</a>
+
+
+  Caso queira saber como foram feitos, veja meus repositórios 😁
+  · Página Pessoal <a href="https://github.com/Pedrohses/Pedrohses.github.io">Página Pessoal</a>
 </p>
