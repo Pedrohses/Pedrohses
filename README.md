@@ -48,10 +48,7 @@
   <li>Página Pessoal <a href="https://pedrohses.github.io/">Página Pessoal</a></li>
   </ul>
   
-  <br>
   <h3>😁 Caso queira saber como foram feitos, veja meus repositórios:</h3> 
-  <br>
-  <br>
   <ul>
   <li>Página Pessoal <a href="https://github.com/Pedrohses/Pedrohses.github.io">Página Pessoal</a></li>
   </ul>
