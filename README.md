@@ -16,8 +16,6 @@
 
 <a href="https://app.daily.dev/pedrohses"><img align="right" src="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz" width="300" alt="Pedro Silva's Card"/></a>
 
-
-
 <h2 align="center">Sobre mim:</h2>
 · 🏙️ Guarulhos-SP <br>
 · 🧠 Estudante assíduo <br>
