@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<a href="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz"><img align="right" src="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz" width="400" alt="Pedro Silva's Dev Card"/></a>
+<a href="https://app.daily.dev/pedrohses"><img align="right" src="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz" width="400" alt="Pedro Silva's Dev Card"/></a>
 
 
 
