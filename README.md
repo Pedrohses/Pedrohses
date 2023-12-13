@@ -14,7 +14,9 @@
 
 <div align="left">
 
-<a href="https://app.daily.dev/pedrohses"><img align="right" src="https://github.com/pedrohses/pedrohses/blob/main/devcard.svg" width="400" alt="Pedro Silva's Dev Card"/></a>
+<a href="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz"><img align="right" src="https://github.com/pedrohses/pedrohses/blob/main/devcard.svg" width="400" alt="Pedro Silva's Dev Card"/></a>
+
+
 
 <h2 align="center">Sobre mim:</h2>
 * 🏙️ Guarulhos-SP <br>
