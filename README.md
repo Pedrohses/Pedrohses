@@ -20,7 +20,7 @@
 · 🏙️ Guarulhos-SP <br>
 · 🧠 Estudante assíduo <br>
 · 📖 Apaixonado por leitura <br>
-· 🎮 Adoro por games <br>
+· 🎮 Adoro games <br>
 · 😃 Bem humorado <br>
 
 <p align="left">
