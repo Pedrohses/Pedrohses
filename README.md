@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<a href="https://app.daily.dev/pedrohses"><img align="right" src="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz" width="400" alt="Pedro Silva's Dev Card"/></a>
+<a href="https://app.daily.dev/pedrohses"><img align="right" src="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz" width="400" alt="Pedro Silva's Card"/></a>
 
 
 
@@ -25,4 +25,11 @@
 * 🎮 Adoro por games <br>
 * 😃 Bem humorado <br>
 
-<h3>Caso queria saber mais sobre mim ou até mesmo conversar, me chame!</h3>
+<p align="left">
+  <h4>Caso queria saber mais sobre mim ou até mesmo conversar, me chame!</h4>
+
+  <a href="https://www.facebook.com/profile.php?id=100004276724588" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+    </a> 
+  
+</p>
