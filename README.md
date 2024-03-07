@@ -20,6 +20,7 @@
 <ul>
 <li>🏙️ Guarulhos-SP</li>
 <li>🧠 Estudante assíduo</li>
+<li>☕ Estudando Java</li>
 <li>📖 Apaixonado por leitura</li>
 <li>🎮 Adoro games</li>
 <li>😃 Bem humorado</li>
