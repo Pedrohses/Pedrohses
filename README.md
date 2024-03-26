@@ -27,7 +27,7 @@
 </ul>
 
 <p align="left">
-  <h4>Caso queria saber mais sobre mim ou até mesmo conversar, me chame!</h4>
+  <h4>Caso queira saber mais sobre mim ou até mesmo conversar, me chame!</h4>
   <div align="left">
   <a href="https://www.facebook.com/profile.php?id=100004276724588" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
