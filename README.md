@@ -6,7 +6,7 @@
 </h2>
 
 <h2 align="center">Sobre meus planos:</h2>
-<p>Na busca por uma primeira oportunidade de estágio na área da programação, completamente disposto e apaixonado por aprender mais e mais.</p>
+<p>Tendo a minha primeira oportunidade de estágio na área da programação, está sendo incrível e estou aprendendo cada dia mais com profissionais ótimos e educados.</p>
 <p>Atualmente focado em estudar Python e Javascript, porém disposto a estudar mais sobre outras linguagens</p>
 <p>Sempre fazendo cursos por fora, estudando códigos de outras pessoas, fazendo meus próprios códigos, falando com pessoas sobre e tentando estudar além da faculdade o máximo possível (Quando a faculdade me permite kkkk)</p>
 
