@@ -1,32 +1,28 @@
-<h1 align="center"> Olá me chamo Pedro Henrique </h1>
+<h1 align="center"> Hello my name is Pedro Henrique </h1>
 
 <h2>
-  <p align="center"> Bem vindo ao meu Github!</p>
-  <p align="center"> Estudante de Ciência da Computação</p>
+  <p align="center"> Welcome to my Github!</p>
+  <p align="center"> Computer Science Student</p>
 </h2>
-
-<h2 align="center">Sobre meus planos:</h2>
-<p>Atualmente focado em estudar</p>
-<p>Sempre fazendo cursos por fora, estudando códigos de outras pessoas, fazendo meus próprios códigos, falando com pessoas sobre e tentando estudar além da faculdade o máximo possível (Quando a faculdade me permite kkkk)</p>
 
 </div>
 
 <div align="left">
 
-<a href="https://app.daily.dev/pedrohses"><img align="right" src="https://api.daily.dev/devcards/33ead938aaa94e51a9482a6217d4e545.png?r=4lz" width="300" alt="Pedro Silva's Card"/></a>
 
-<h2 align="center">Sobre mim:</h2>
+<h2 align="center">About me:</h2>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR5YmNxN2gwcGVhN2IyazUzNXhpa29jYndwc211NnV3d3IwM3h5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif" width="260" height="260" />
 <ul>
+<li>💻 Full-stack Trainee</li>
 <li>🏙️ Guarulhos-SP</li>
-<li>🧠 Estudante assíduo</li>
-<li>🚀 Estudando Desenvolvimento Full-Stack na Rocketseat</li>
-<li>📖 Apaixonado por leitura</li>
-<li>🎮 Adoro games</li>
-<li>😃 Bem humorado</li>
+<li>🧠 Hard working student</li>
+<li>📖 Passionate about reading</li>
+<li>🎮 Love games</li>
+<li>😃 Good-humored</li>
 </ul>
 
 <p align="left">
-  <h4>Caso queira saber mais sobre mim ou até mesmo conversar, me chame!</h4>
+  <h4>Social Medias</h4>
   <div align="left">
   <a href="https://www.facebook.com/profile.php?id=100004276724588" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
@@ -39,28 +35,34 @@
   <a href="https://www.linkedin.com/in/pedro-silva-43985125b/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
+  <a href="https://github.com/Pedrohses" targer="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
   </div>
 </p>
 
 <p align="left">
-  <h2>Projetos:</h2>
-  <ul>
-  <li>Página Pessoal <a href="https://pedrohses.github.io/">Página Pessoal</a></li>
-  </ul>
-  
-  <h3>😁 Caso queira saber como foram feitos, veja meus repositórios:</h3> 
-  <ul>
-  <li>Página Pessoal <a href="https://github.com/Pedrohses/Pedrohses.github.io">Página Pessoal</a></li>
-  </ul>
-</p>
-
-<p align="center">
-  <h2>Tecnologias</h2>
-  <h3>Linguagens</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <h2>Technologies I use at work</h2>
+  <h3>Languages</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+
+  <h3>Frameworks</h3>
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Nodejs" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Nextjs" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" /></a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Nestjs" /></a>
+  
+  <h3>Databases</h3>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/pt-br/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+  
+  <h3>Cloud</h3>
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+  
+  <h3>Tools</h3>
+  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
