@@ -13,7 +13,7 @@
 <h2 align="center">About me:</h2>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR5YmNxN2gwcGVhN2IyazUzNXhpa29jYndwc211NnV3d3IwM3h5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif" width="260" height="260" />
 <ul>
-<li>💻 Full-stack Trainee</li>
+<li>💻 Full Stack Developer Intern</li>
 <li>🏙️ Guarulhos-SP</li>
 <li>🧠 Hard working student</li>
 <li>📖 Passionate about reading</li>
